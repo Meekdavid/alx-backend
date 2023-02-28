@@ -1,4 +1,4 @@
-Efficiency 
+Efficiency
 #!/usr/bin/python3
 """
 Module 0-basic_cache
